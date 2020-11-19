@@ -1,11 +1,12 @@
 # Markdown file
 **hello**
-Number 3
+Number 3#
 width = float(input('Enter the width of your room in m:'))
 length = float(input('Enter the length of your room in m:'))
 A = length* width
 print(f'The area of your is {int(A)} m.')
 
+#5
 #small = input('# of bottles less than one litre:')
 #big = input('# number of bottles over 1 litre:')
 #smalla = float(small)
@@ -17,6 +18,7 @@ print(f'The area of your is {int(A)} m.')
 #print('your refund amount 
 #principal = input('Enter the cost of the meal please:')
 
+#6
 #restaurant
 #num1 = float(principal)
 #tip = num1* .18
@@ -24,14 +26,14 @@ print(f'The area of your is {int(A)} m.')
 #grand = tip + tax + num1
 #print('Your total is:', round(grand,2), '$')
 
-#sum
+#7 sum
 #num = input('enter a #number please:')
 #numog = int(num)
 #sum =(numog* (numog+1))/2
 #print(sum)
 
-#widgets
 
+#8 widgets
 #widget = input('please #enter your number of widgets:')
 #gizmos = input('Enter your nuumber of gizmos:')
 #widgeta, gizmosa = float#(widget), float(gizmos)
@@ -40,6 +42,7 @@ print(f'The area of your is {int(A)} m.')
 #total = widgeta*widgetW + #gizmosa*gizmosW
 #print(int(total),'g')
 
+#9
 #Compound
 #principal = input('Enter #Principal:')
 #principal1 = float#(principal)
@@ -51,6 +54,7 @@ print(f'The area of your is {int(A)} m.')
 #first3a = first3+first2a
 #print('Balance after first #year', firsta, '\nSecond year',first2a, '\nThird year', first3a)
 
+#10
 import math
 #arithmetic
 #a = input("enter first #integer:")
@@ -66,6 +70,7 @@ import math
 #power = a1**b1
 #print('sum',sum, 'difference',diff, 'product', product, 'quotidien',quo, 'remainder',rem, 'power',power, 'log', round(log, 2))
 
+#11
 #fuel efficiency
 #american = input('Enter fuel effieciency in MPG:')
 #american1 = float(american)
@@ -81,6 +86,7 @@ import math
 #distance = 6371.01 × math.arccos(sin(t1)) × math.sin(t2) + math.cos(t1) × math.cos(t2) × math.cos((g1 − g2))
 #print(g1)
 
+#13
 #making change
 #nec = int(input('Input the amount of cents:'))
 #penny = 1
@@ -97,6 +103,7 @@ import math
 #print(nec//loonie, 'loonie')
 #print(nec//toonie, 'toonie')
 
+#14
 #height
 #feet = int(input('Enter your height in feet:'))
 #inches = int(input('enter #your height in inches:'))
@@ -104,19 +111,19 @@ import math
 #cm2 = inches*2.54
 #total = print('your height is', cm1+cm2,'cm')
 
-#Distance #15
+#15 Distance 
 #feet = int(input('enter #the amount of feet:'))
 #print(feet*12, 'inches')
 #print(feet*.333, 'yards')
 #print(feet*.0001893, 'miles')
 
-#area and volume
+#16 area and volume
 
 #r= float(input('Enter #radius:'))
 #print("area of the circle is", round(r**2*math.pi, 2), 'cm**2')
 #print('The volume of the sphere is', round(4/3*math.pi*r**3, 2), 'cm**2')
 
-#heat
+#17 heat
 #m = int(input('Enter the #mass of water:'))
 #T = int(input('Enter the #temp change in the water:'))
 #q = m*T*4.186
@@ -129,11 +136,19 @@ import math
 #h = float(input('Enter the height of the cylinder:'))
 #print(round(math.pi*r*h, 1), 'cm**3 is the volume')
 
-#free fall #19
+#18 area and volume
+
+#r= float(input('Enter #radius:'))
+#print("area of the circle is", round(r**2*math.pi, 2), 'cm**2')
+#print('The volume of the sphere is', round(4/3*math.pi*r**3, 2), 'cm**2')
+
+
+
+#19 free fall 
 #d = int(input('Input hight(m):')) 
 #vi = 0
 #vf = (2*9.8*d)**.5
 print('the object is traveling at', round(vf, 2), 'in the end')
 
-#Ideal gas
+#20 Ideal gas
 
