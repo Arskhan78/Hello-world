@@ -1,10 +1,10 @@
 # Markdown file
 **hello**
-# # Number 3
-# width = float(input('Enter the width of your room in m:'))
-# length = float(input('Enter the length of your room in m:'))
-# A = length* width
-# print(f'The area of your is {int(A)} m.')
+Number 3
+width = float(input('Enter the width of your room in m:'))
+length = float(input('Enter the length of your room in m:'))
+A = length* width
+print(f'The area of your is {int(A)} m.')
 
 #small = input('# of bottles less than one litre:')
 #big = input('# number of bottles over 1 litre:')
@@ -129,11 +129,11 @@ import math
 #h = float(input('Enter the height of the cylinder:'))
 #print(round(math.pi*r*h, 1), 'cm**3 is the volume')
 
-# free fall #19
-# d = int(input('Input hight(m):')) 
-# vi = 0
-# vf = (2*9.8*d)**.5
-# print('the object is traveling at', round(vf, 2), 'in the end')
+#free fall #19
+#d = int(input('Input hight(m):')) 
+#vi = 0
+#vf = (2*9.8*d)**.5
+print('the object is traveling at', round(vf, 2), 'in the end')
 
-# Ideal gas
+#Ideal gas
 
